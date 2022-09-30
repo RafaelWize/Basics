@@ -11,3 +11,4 @@
 9. multi account
 10. test push
 11. push with cache
+12. auth
