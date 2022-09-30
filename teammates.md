@@ -12,3 +12,4 @@
 10. test push
 11. push with cache
 12. auth
+13. verified
