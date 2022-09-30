@@ -13,3 +13,7 @@
 11. push with cache
 12. auth
 13. verified
+14. Gina Fraire
+15. Fer Curiel
+16. Danny Alvarez
+17. Rafael Ruiz
