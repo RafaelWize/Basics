@@ -9,3 +9,4 @@
 7. Impersonar a Moisés
 8. Commit inservible
 9. multi account
+10. test push
