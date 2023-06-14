@@ -17,4 +17,4 @@
 15. Fer Curiel
 16. Danny Alvarez
 17. Rafael Ruiz
-18. Christian
+18. Christian Morlotte
